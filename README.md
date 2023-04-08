@@ -20,4 +20,4 @@ Open [http://localhost:3000]
 "react-icons": "^4.7.1",
 "react-router-dom": "^6.8.1",
 # Description 
-This React web app in real time crypto web app created. This app in IND-Rupee, US-Dollar & UK-Pound in cunvered crypto pricce. This App in graph is eassily understandin Minimum and maximum crypto prince show day, week, yearly.
+This React web app in real time crypto web app created. This app in IND-Rupee, US-Dollar & UK-Pound in convert crypto price. This App in graph is easily understanding Minimum and maximum crypto prince show day, week, yearly.
